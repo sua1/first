@@ -3,4 +3,5 @@
  */
 window.onload=function(){
     var a=1;
+    var oDiv=document.getElementById("div1");
 }
