@@ -4,7 +4,9 @@
 window.onload=function(){
     var a=1;
     var oDiv=document.getElementById("div1");
-    
+    oDiv.onclick=function(){
+        console.log("click事件");
+    };
 }
 
 
